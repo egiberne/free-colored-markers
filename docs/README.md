@@ -1,0 +1,84 @@
+![Logo](banner.png)
+
+
+#  Free Menu App
+
+## 💭 Synopsis
+
+ 
+
+## 📝 Summary
+
+ 
+
+
+> ℹ️ **Note:**  
+
+## 🧩 Features
+
+- Learn the  
+- Learn the  
+
+
+## 🔧 Requirements
+
+- Web browser
+- Text editor
+
+## 🧰 Tools
+
+- Visual Studio Code
+- Microsoft Edge
+
+## 🪄 Installation
+
+1. Clone the repository
+2. Open the project in Visual Studio Code
+3. Follow the [instructions](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu "From the Front-End Developer Roadmap") to build the project.
+
+## 🧪 Samples
+
+- See an example of the project, on the page [MEALS & METS](https://mealsnmets.netlify.app)
+
+- See my [step-by-step](https://github.com/egiberne/free-menu-app/blob/4912cbf5d5b6a0ba8992e82ce7fe9c4cd5919888/src/STEP_BY_STEP.md) to build the project.
+
+## Progresses
+
+Quick overview of the project status.
+<table>
+    <caption> Coding Language </caption>
+    <thead>
+         <tr><th>Status</th><th>HTML</th><th>CSS</th><th>JS </th></tr>
+    </thead>
+    <tbody>
+        <tr><td>Coding</td><td>in-progress</td><td>in-progress</td><td>n/a</td></tr>
+        <tr><td>Course</td><td>n/a</td><td>n/a</td><td>n/a</td></tr>
+        <tr><td>Quiz</td><td>n/a</td><td>n/a</td><td>n/a</td></tr>
+    </tbody>
+    <tfoot>
+        <tr><th>Cleared</th><th>n/a</th><th>n/a</th><th>n/a</th></tr>
+    </tfoot>
+</table>
+
+## 🤝 Acknowledgments
+
+## 📚 References
+
+- Learn to Code [freeCodeCamp - Learn Basic CSS by Building a Cafe Menu ](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu "From the Front-End Developer Roadmap")
+
+- See the Markdown Cheatsheet on [Markdown Guide](www.markdownguide.org "Reference website about Markdown Language.")
+
+- Learn to code HTLML, CSS, Javascript ... on [W3shools](www.w3schools.com "World's largest web developer site.")
+
+- See the list of Emoji on [Emojipedia](http://www.emojipedia.org "Emoji reference site.") 
+
+- Learn to build a GitHub Page on [GitHub Pages](https://tomcam.github.io/least-github-pages/ "The Least You Need to Know About GitHub Pages")
+
+## 🛡️ Security
+[Security](SECURITY)
+
+## ⚖️ License
+
+[License](LICENSE)
+
+<a href="#">Top</a>
