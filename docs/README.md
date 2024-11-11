@@ -1,7 +1,7 @@
 ![Logo](banner.png)
 
 
-#  Free Menu App
+#  Free Colored Markers
 
 ## 💭 Synopsis
 
@@ -9,15 +9,14 @@
 
 ## 📝 Summary
 
- 
+ Build a set of Colored Markers using HTML and CSS.
 
 
 > ℹ️ **Note:**  
 
 ## 🧩 Features
 
-- Learn the  
-- Learn the  
+- Learn the  CSS Colors  
 
 
 ## 🔧 Requirements
